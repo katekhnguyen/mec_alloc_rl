@@ -1,5 +1,4 @@
-# Resource Allocation in Mobile Edge Computing using Deep Reinforcement Learning 
-# DDPG vs. TD3
+# Resource Allocation in Mobile Edge Computing using Deep Reinforcement Learning
 
 ## Installation Information
 

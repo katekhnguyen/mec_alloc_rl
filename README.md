@@ -36,6 +36,10 @@ Use `main.ipynb` to obtain the desired results.
 - `eua/users.csv` and `eua/servers.csv`: Location of Usera and Servers (EUA Dataset)
 - `dataset_generator/workload`: GPU workload generator used in `gen_*.py`
 
+## Acknowledgments
+
+Special thank to https://github.com/subratpp
+
 ### Rererenced Paper:
 S. P. Panda, A. Banerjee and A. Bhattacharya, "User Allocation in Mobile Edge Computing: A Deep Reinforcement Learning Approach," 2021 IEEE International Conference on Web Services (ICWS), 2021, pp. 447-458, doi: 10.1109/ICWS53863.2021.00064.
 ["User Allocation in Mobile Edge Computing: A Deep Reinforcement Learning Approach"](https://ieeexplore.ieee.org/document/9590334).

@@ -38,7 +38,7 @@ Use `main.ipynb` to obtain the desired results.
 
 ## Acknowledgments
 
-Special thank to https://github.com/subratpp
+Special thank to [Subrat Prasad Panda](https://github.com/subratpp), Ansuman Banerjee, and Arani Bhattacharya
 
 ### Rererenced Paper:
 S. P. Panda, A. Banerjee and A. Bhattacharya, "User Allocation in Mobile Edge Computing: A Deep Reinforcement Learning Approach," 2021 IEEE International Conference on Web Services (ICWS), 2021, pp. 447-458, doi: 10.1109/ICWS53863.2021.00064.

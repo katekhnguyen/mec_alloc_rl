@@ -1,4 +1,4 @@
-# User Allocation in Mobile Edge Computing: A Deep Reinforcement Learning Approach
+# Resource Allocation in Mobile Edge Computing using Deep Reinforcement Learning (DDPG vs. TD3)
 
 ## Installation Information
 

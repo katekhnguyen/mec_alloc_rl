@@ -15,6 +15,8 @@ Use `main.ipynb` to obtain the desired results.
 - All the blocks except last block are function definitions.
 - The last block of this Jupyter Notebook contains `for` loop which varies number of users and servers configuration.
 
+Use `plot_main.ipynb` to plot & visualize results.
+
 ## Project Directory Structure
 
 - `dataset`: YOLO and MobilenetV2 execution dataset
@@ -46,3 +48,6 @@ S. P. Panda, A. Banerjee and A. Bhattacharya, "User Allocation in Mobile Edge Co
 
 ### Rererenced Githup Repo:
 https://github.com/subratpp/mec_alloc_rl
+
+### This Githup Repo:
+https://github.com/katekhnguyen/mec_alloc_rl 
